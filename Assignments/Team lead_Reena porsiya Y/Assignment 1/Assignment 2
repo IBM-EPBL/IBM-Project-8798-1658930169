@@ -21,3 +21,4 @@ while temperature < 45:
   sleep(0.50)
 
 print('High Temperature Detected')
+
