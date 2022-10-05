@@ -23,3 +23,4 @@ while temperature < 45:
 print('High Temperature Detected')
 
 
+
